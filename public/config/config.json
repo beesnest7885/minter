@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xD4b185832F2a88d0429D21CFd8a4E17fbC23Ed15",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xD4b185832F2a88d0429D21CFd8a4E17fbC23Ed15",
+  "NETWORK": {
+    "NAME": "mumbai testnet",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "NFToshis",
+  "SYMBOL": "toshis",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.075,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/nftoshis",
+  "SHOW_BACKGROUND": true
+}
